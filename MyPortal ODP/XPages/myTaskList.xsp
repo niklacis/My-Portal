@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core">
+
+	<xp:repeat id="repeatTasks" rows="30" var="myTasks"
+		indexVar="indxOfTask">
+		<xp:this.value><![CDATA["]]></xp:this.value>
+	</xp:repeat></xp:view>
